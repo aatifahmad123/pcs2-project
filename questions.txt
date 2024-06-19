@@ -1,0 +1,3 @@
+What command is used to display the contents of a file in the terminal?
+Which command is used to create a new directory in the current location?
+What command is used to list all files and directories in the current directory?

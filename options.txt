@@ -1,0 +1,3 @@
+ls,grep,mv,cat
+cp,touch,mkdir,mv
+ls,cd,cat,pwd
